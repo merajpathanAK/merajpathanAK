@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=4000&pause=1000&color=00F7FF&width=1000&center=true&vCenter=true&repeat=true&lines=🚀+DevOps+Engineer+%7C+Jenkins+%7C+Oracle+%7C+GitHub+Copilot+%7C+MSSQL+%7C+Linux+%7C+Ansible+%7C+Git+%26+GitHub+%7C+CI%2FCD+%7C+Docker+%7C+AutoSys+%7C+LoanIQ" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=9000&pause=1000&color=00F7FF&width=1000&center=true&vCenter=true&repeat=true&lines=🚀+DevOps+Engineer+%7C+Jenkins+%7C+Oracle+%7C+GitHub+Copilot+%7C+MSSQL+%7C+Linux+%7C+Ansible+%7C+Git+%26+GitHub+%7C+CI%2FCD+%7C+Docker+%7C+AutoSys+%7C+LoanIQ" />
 </h1>
 
 ---
@@ -10,24 +10,26 @@
 🎯 Goal: Deliver **resilient, automated, and future-proof solutions**.  
 
 ---
-
-## 🛠️ Tech Stack (3D Badges)
+## 🛠️ Tech Stack (Logo Wall)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DevOps-%2300ADD8.svg?style=for-the-badge&logo=devops&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logo=gitlab&logoColor=orange" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AutoSys-005571?style=for-the-badge&logo=automation&logoColor=white" />
-  <img src="https://img.shields.io/badge/LoanIQ-2D2E83?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="60" alt="Jenkins" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="60" alt="Oracle" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" height="60" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="60" alt="Ansible" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="60" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="60" alt="MSSQL" />
+</p>
+
+<p align="center">
+  <img src="https://img.icons8.com/?size=512&id=22813&format=png" height="60" alt="CI/CD" />
+  <img src="https://img.icons8.com/?size=512&id=90519&format=png" height="60" alt="DevOps" />
+  <img src="https://img.icons8.com/?size=512&id=ywH8BmsFQTgq&format=png" height="60" alt="AutoSys" />
+  <img src="https://img.icons8.com/?size=512&id=13679&format=png" height="60" alt="LoanIQ" />
+  <img src="https://img.icons8.com/?size=512&id=8qW6zV2HFhD2&format=png" height="60" alt="GitHub Copilot" />
 </p>
 
 ---
