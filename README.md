@@ -47,6 +47,12 @@ My expertise spans across **CI/CD pipelines, XL Release (XLR), Ansible Tower, Do
       🛡️ OpenShift
     </td>
   </tr>
+  <td align="center" width="300" style="background:#006a71; color:white; border-radius:15px; padding:15px;">
+      <h3>⚡ CI/CD</h3>
+      🔄 CI/CD Pipelines <br>
+      🔥 Continuous Integration <br>
+      🚀 Continuous Deployment
+    </td>
   <tr>
     <td align="center" width="300" style="background:#2c5364; color:white; border-radius:15px; padding:15px;">
       <h3>🗄️ Databases</h3>
