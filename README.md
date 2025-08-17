@@ -14,18 +14,18 @@
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="30" alt="Jenkins" /> **Jenkins**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="Oracle" /> **Oracle**
-- <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" height="30" alt="GitHub" /> **GitHub**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" /> **GitHub**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" /> **Git**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" /> **Docker**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" /> **Linux**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="30" alt="Ansible" /> **Ansible**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="AWS" /> **AWS**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="MSSQL" /> **MSSQL**
-- <img src="https://img.icons8.com/?size=512&id=22813&format=png" height="30" alt="CI/CD" /> **CI/CD**
-- <img src="https://img.icons8.com/?size=512&id=90519&format=png" height="30" alt="DevOps" /> **DevOps**
-- <img src="https://img.icons8.com/?size=512&id=ywH8BmsFQTgq&format=png" height="30" alt="AutoSys" /> **AutoSys**
-- <img src="https://img.icons8.com/?size=512&id=13679&format=png" height="30" alt="LoanIQ" /> **LoanIQ**
-- <img src="https://img.icons8.com/?size=512&id=8qW6zV2HFhD2&format=png" height="30" alt="GitHub Copilot" /> **GitHub Copilot**
+- <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" height="30" alt="CI/CD" /> **CI/CD**
+- <img src="https://cdn-icons-png.flaticon.com/512/5968/5968853.png" height="30" alt="DevOps" /> **DevOps**
+- <img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" height="30" alt="AutoSys" /> **AutoSys**
+- <img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" height="30" alt="LoanIQ" /> **LoanIQ**
+- <img src="https://cdn.iconscout.com/icon/free/png-512/free-github-copilot-11782372-9607781.png" height="30" alt="GitHub Copilot" /> **GitHub Copilot**
 
 
 ---
