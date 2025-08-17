@@ -23,35 +23,52 @@ My expertise spans across **CI/CD pipelines, XL Release (XLR), Ansible Tower, Do
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
-### 🔹 DevOps & Release Management  
-- ![Jenkins](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg) **Jenkins**  
-- ![Ansible](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg) **Ansible**  
-- **AutoSys**  
-- **XLR Release Management**  
-- **Ansible Tower**  
-
-### 🔹 Automation & Configuration  
-- ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) **Git**  
-- ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg) **GitHub**  
-- **GitHub Copilot**  
-
-### 🔹 Cloud Platforms  
-- ![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg) **AWS**  
-- ![OpenShift](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openshift/openshift-original.svg) **OpenShift**  
-
-### 🔹 Databases  
-- ![Oracle](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg) **Oracle**  
-- ![MSSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg) **MSSQL**  
-
-### 🔹 Containers & Orchestration  
-- ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg) **Docker**  
-- ![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg) **Linux**  
-
-### 🔹 Enterprise Tools  
-- **LoanIQ**  
-- **CI/CD Best Practices**  
+<table>
+  <tr>
+    <th align="center">DevOps &<br>Release Management</th>
+    <th align="center">Automation &<br>Configuration</th>
+    <th align="center">Cloud Platforms</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jenkins.svg" height="30"/> Jenkins <br>
+      <img src="https://media.giphy.com/media/IObCnFjU3NYbu/giphy.gif" height="30"/> Ansible <br>
+      <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-automation-devops-flat-flat-juicy-fish.png" height="30"/> AutoSys <br>
+      <img src="https://img.shields.io/badge/XLR%20Release-animated?style=for-the-badge&labelColor=purple&logoColor=white&color=indigo&logo=databricks" height="22"> <br>
+      <img src="https://img.shields.io/badge/Ansible%20Tower-animated?style=for-the-badge&labelColor=red&color=blue" height="22">
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/SUEnXI5RY7CzJYrkd7/giphy.gif" height="30"/> Git <br>
+      <img src="https://media.giphy.com/media/EKf8aBeyKj5g6/giphy.gif" height="30"/> GitHub <br>
+      <img src="https://img.shields.io/badge/GitHub%20Copilot-animated?style=for-the-badge&labelColor=black&color=blue" height="22">
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" height="35"/> AWS <br>
+      <img src="https://media.giphy.com/media/6X1zzsDAbMizS/giphy.gif" height="35"/> OpenShift
+    </td>
+  </tr>
+  <tr>
+    <th align="center">Databases</th>
+    <th align="center">Containers &<br>Operating Systems</th>
+    <th align="center">Enterprise Tools</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://media.giphy.com/media/QC5dhmgQyqlXiKj7Me/giphy.gif" height="35"/> Oracle <br>
+      <img src="https://media.giphy.com/media/QzZKQq4eB2bTQ98fTB/giphy.gif" height="35"/> Microsoft SQL Server
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg" height="35"/> Docker <br>
+      <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" height="35"/> Linux
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/LoanIQ-animated?style=for-the-badge&labelColor=royalblue&color=skyblue" height="22"> <br>
+      <img src="https://img.shields.io/badge/CI%20Best%20Practices-animated?style=for-the-badge&labelColor=royalblue&color=purple" height="22">
+    </td>
+  </tr>
+</table>
 
 
 ---
