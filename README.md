@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:00F7FF,100:4B0082&text=Meraj%20Pathan&fontSize=48&fontColor=ffffff&fontAlignY=35" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=40&pause=1000&color=0CF7FF&vCenter=true&width=700&lines=Meraj+Pathan;DevOps+%26+Release+Engineer;Cloud+%7C+CI%2FCD+%7C+Automation+Specialist" />
 </p>
 
----
 
 ## 🌌 About Me  
 
