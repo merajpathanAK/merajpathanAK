@@ -4,30 +4,34 @@
 
 ---
 
-## 🌌 About Me
-👨‍💻 I’m a **DevOps & Release Manager** with a passion for building smooth and reliable **CI/CD pipelines** <img src="https://img.icons8.com/color/48/000000/continuous-integration.png" height="20" alt="CI/CD" />.  
-🚀 I have hands-on experience with **XL Release (XLR)** <img src="https://img.icons8.com/fluency/48/rocket.png" height="20" alt="XLR" /> and **Ansible Tower automation** <img src="https://img.icons8.com/color/48/ansible.png" height="20" alt="Ansible" />, helping teams release faster and with confidence.  
-☁️ Skilled across **cloud platforms** <img src="https://img.icons8.com/color/48/000000/cloud.png" height="20" alt="Cloud" /> and **infrastructure as code**, I focus on making systems **scalable, automated, and future-ready**.  
-🎯 My goal is simple: deliver **seamless releases** that reduce downtime, boost productivity, and let businesses move at the speed of innovation.
+## 🌌 About Me  
+
+Hi there! 👋  
+
+I’m a **DevOps & Release Manager** with **4+ years of experience** in building and managing modern DevOps ecosystems.  
+My expertise spans across **CI/CD pipelines, XL Release (XLR), Ansible Tower, Docker, and cloud solutions**, where I focus on delivering releases that are seamless, reliable, and scalable.  
+
+🔧 Over the years, I’ve helped teams:  
+- Automate deployments and reduce manual errors.  
+- Improve release cycles through **streamlined CI/CD workflows**.  
+- Manage complex enterprise releases with **XLR** and **Ansible Tower**.  
+- Enhance infrastructure reliability with **cloud platforms** and automation tools.  
+
+🚀 What drives me is ensuring every release is smooth, downtime is minimal, and innovation never slows down.  
+🎯 My mission: Deliver **future-proof, automated, and business-driven release processes** that empower teams to move faster with confidence.  
 
 
 ---
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack  
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="30" alt="Jenkins" /> **Jenkins**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="Oracle" /> **Oracle**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" /> **GitHub**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" /> **Git**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" /> **Docker**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" /> **Linux**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="30" alt="Ansible" /> **Ansible**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="AWS" /> **AWS**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="MSSQL" /> **MSSQL**
-- <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" height="30" alt="CI/CD" /> **CI/CD**
-- <img src="https://cdn-icons-png.flaticon.com/512/5968/5968853.png" height="30" alt="DevOps" /> **DevOps**
-- <img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" height="30" alt="AutoSys" /> **AutoSys**
-- <img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" height="30" alt="LoanIQ" /> **LoanIQ**
-- <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/GitHub_Copilot_logo.svg" height="30" alt="GitHub Copilot" /> **GitHub Copilot**
+🔹 **DevOps & Release Management** – CI/CD, XLR Release Management, Ansible Tower  
+🔹 **Automation & Configuration** – Jenkins, Ansible, AutoSys  
+🔹 **Cloud Platforms** – AWS, OpenShift  
+🔹 **Databases** – Oracle, MSSQL  
+🔹 **Version Control** – Git & GitHub, GitHub Copilot  
+🔹 **Containers & Orchestration** – Docker, Linux  
+🔹 **Enterprise Tools** – LoanIQ, CI/CD best practices  
+
 
 
 ---
