@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=👋+Hi!+I'm+Meraj+Pathan;🚀+DevOps+Engineer;☁️+Cloud+%7C+Automation+%7C+CI%2FCD;💡+Passionate+About+Learning+%26+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi!+I'm+Meraj+Pathan;DevOps+Engineer;Cloud+%7C+Automation+%7C+CI%2FCD;Always+Learning+%26+Building" />
 </h1>
 
 ---
@@ -49,27 +49,38 @@
 
 ---
 
-## 🐍 Contribution Snake (3D Animation)
+## 🐍 Contribution Snake (Setup Needed)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/merajpathanAK/merajpathanAK/output/github-contribution-grid-snake-dark.svg" />
-</p>
+> ⚠️ To make this work, you need to enable a GitHub Action in your repo.
 
----
+Add this file in your repo at:  
+`.github/workflows/snake.yml`
 
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://github.com/merajpathanAK">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/pathan-meraj/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:merajpathan85@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+```yaml
+name: Generate Snake
 
----
+on:
+  schedule: 
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
-<h3 align="center">⚡ "Automating today for a better tomorrow!" ⚡</h3>
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: merajpathanAK
+          outputs: dist/snake.svg
+
+      - name: Push Snake to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
