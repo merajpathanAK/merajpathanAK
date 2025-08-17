@@ -49,7 +49,10 @@
 
 ---
 
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/merajpathanAK/merajpathanAK/output/snake.svg" alt="Snake animation" />
+  <img src="https://github.com/merajpathanAK/merajpathanAK/blob/main/skyline.png" alt="GitHub Skyline 3D" />
 </p>
+
+
+
+
