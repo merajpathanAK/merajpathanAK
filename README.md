@@ -22,45 +22,49 @@ My expertise spans across **CI/CD pipelines, XL Release (XLR), Ansible Tower, Do
 
 
 ---
+
 ## 🛠️ Tech Stack  
-
 <div align="center">
-
 <table>
   <tr>
     <td align="center" width="300" style="background:#0f2027; color:white; border-radius:15px; padding:15px;">
-      <h3>💻 Languages & Frameworks</h3>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+      <h3>🚀 DevOps & Release Management</h3>
+      🧩 Jenkins <br>
+      ⚙️ Ansible <br>
+      🕹️ AutoSys <br>
+      🏁 XL Release (XLR) <br>
+      🗼 Ansible Tower
     </td>
     <td align="center" width="300" style="background:#203a43; color:white; border-radius:15px; padding:15px;">
-      <h3>☁️ Cloud & DevOps</h3>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
-      <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/>
-      <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="40" height="40"/>
-      <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" height="40"/>
-      <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40" height="40"/>
+      <h3>🤖 Automation & Configuration</h3>
+      🔗 Git <br>
+      🐙 GitHub <br>
+      🤖 Copilot
+    </td>
+    <td align="center" width="300" style="background:#233142; color:white; border-radius:15px; padding:15px;">
+      <h3>☁️ Cloud Platforms</h3>
+      🌐 AWS <br>
+      🛡️ OpenShift
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2" style="background:#2c5364; color:white; border-radius:15px; padding:15px;">
-      <h3>🗄️ Databases & Monitoring</h3>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40"/>
-      <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" height="40"/>
-      <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" width="40" height="40"/>
+    <td align="center" width="300" style="background:#2c5364; color:white; border-radius:15px; padding:15px;">
+      <h3>🗄️ Databases</h3>
+      🟠 Oracle <br>
+      🟦 Microsoft SQL Server
+    </td>
+    <td align="center" width="300" style="background:#34495e; color:white; border-radius:15px; padding:15px;">
+      <h3>🐳 Containers & OS</h3>
+      🐳 Docker <br>
+      🐧 Linux
+    </td>
+    <td align="center" width="300" style="background:#1a2980; color:white; border-radius:15px; padding:15px;">
+      <h3>🏢 Enterprise Tools</h3>
+      🏦 LoanIQ <br>
+      ♾️ CI Best Practices
     </td>
   </tr>
 </table>
-
 </div>
 
 
