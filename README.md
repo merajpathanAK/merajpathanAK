@@ -22,21 +22,17 @@ My expertise spans across **CI/CD pipelines, XL Release (XLR), Ansible Tower, Do
 
 
 ---
+## 🛠️ Tech Stack  
 
-## 🛠️ Tech Stack
-
-| 🚀 DevOps & Release Management      | 🤖 Automation & Configuration     | ☁️ Cloud Platforms         |
-|:-----------------------------------|:----------------------------------|:--------------------------|
-| 🧩 Jenkins                         | 🔗 Git                            | 🌐 AWS                    |
-| ⚙️ Ansible                         | 🐙 GitHub                         | 🛡️ OpenShift              |
-| 🕹️ AutoSys                         | 🤖 Copilot                        |                           |
-| 🏁 XL Release (XLR)                |                                   |                           |
-| 🗼 Ansible Tower                   |                                   |                           |
-
-| 🗄️ Databases                       | 🐳 Containers & OS                | 🏢 Enterprise Tools        |
-|:-----------------------------------|:----------------------------------|:--------------------------|
-| 🟠 Oracle                          | 🐳 Docker                         | 🏦 LoanIQ                 |
-| 🟦 Microsoft SQL Server            | 🐧 Linux                          | ♾️ CI Best Practices       |
+| 🚀 **DevOps & Release**   | 🔧 **Automation & VCS** | ☁️ **Cloud Platforms** | 🗄️ **Databases**   | 📦 **Containers & OS** | 🏢 **Enterprise Tools** |
+|----------------------------|--------------------------|-------------------------|---------------------|-------------------------|--------------------------|
+| 🧩 Jenkins                 | ⚙️ Ansible              | 🌍 AWS                  | 🔴 Oracle           | 🐳 Docker              | 💼 LoanIQ               |
+| 📦 XLR Release Mgmt        | ⏱️ AutoSys              | 🏗️ OpenShift           | 🟣 MSSQL            | 🐧 Linux               | 🔄 CI/CD                |
+| 🛰️ Ansible Tower          | 🌀 Git                  |                         |                     |                         |                          |
+|                            | 🐙 GitHub               |                         |                     |                         |                          |
+|                            | 🤖 GitHub Copilot       |                         |                     |                         |                          |
+|                            | ⚡ GitHub Actions       |                         |                     |                         |                          |
+|                            | 🧭 Bitbucket            |                         |                     |                         |                          |
 
 
 ---
