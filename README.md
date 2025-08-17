@@ -25,50 +25,18 @@ My expertise spans across **CI/CD pipelines, XL Release (XLR), Ansible Tower, Do
 
 ## 🛠️ Tech Stack
 
-<table>
-  <tr>
-    <th align="center">DevOps &<br>Release Management</th>
-    <th align="center">Automation &<br>Configuration</th>
-    <th align="center">Cloud Platforms</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jenkins.svg" height="30"/> Jenkins <br>
-      <img src="https://media.giphy.com/media/IObCnFjU3NYbu/giphy.gif" height="30"/> Ansible <br>
-      <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-automation-devops-flat-flat-juicy-fish.png" height="30"/> AutoSys <br>
-      <img src="https://img.shields.io/badge/XLR%20Release-animated?style=for-the-badge&labelColor=purple&logoColor=white&color=indigo&logo=databricks" height="22"> <br>
-      <img src="https://img.shields.io/badge/Ansible%20Tower-animated?style=for-the-badge&labelColor=red&color=blue" height="22">
-    </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/SUEnXI5RY7CzJYrkd7/giphy.gif" height="30"/> Git <br>
-      <img src="https://media.giphy.com/media/EKf8aBeyKj5g6/giphy.gif" height="30"/> GitHub <br>
-      <img src="https://img.shields.io/badge/GitHub%20Copilot-animated?style=for-the-badge&labelColor=black&color=blue" height="22">
-    </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" height="35"/> AWS <br>
-      <img src="https://media.giphy.com/media/6X1zzsDAbMizS/giphy.gif" height="35"/> OpenShift
-    </td>
-  </tr>
-  <tr>
-    <th align="center">Databases</th>
-    <th align="center">Containers &<br>Operating Systems</th>
-    <th align="center">Enterprise Tools</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://media.giphy.com/media/QC5dhmgQyqlXiKj7Me/giphy.gif" height="35"/> Oracle <br>
-      <img src="https://media.giphy.com/media/QzZKQq4eB2bTQ98fTB/giphy.gif" height="35"/> Microsoft SQL Server
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg" height="35"/> Docker <br>
-      <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" height="35"/> Linux
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/LoanIQ-animated?style=for-the-badge&labelColor=royalblue&color=skyblue" height="22"> <br>
-      <img src="https://img.shields.io/badge/CI%20Best%20Practices-animated?style=for-the-badge&labelColor=royalblue&color=purple" height="22">
-    </td>
-  </tr>
-</table>
+| 🚀 DevOps & Release Management      | 🤖 Automation & Configuration     | ☁️ Cloud Platforms         |
+|:-----------------------------------|:----------------------------------|:--------------------------|
+| 🧩 Jenkins                         | 🔗 Git                            | 🌐 AWS                    |
+| ⚙️ Ansible                         | 🐙 GitHub                         | 🛡️ OpenShift              |
+| 🕹️ AutoSys                         | 🤖 Copilot                        |                           |
+| 🏁 XL Release (XLR)                |                                   |                           |
+| 🗼 Ansible Tower                   |                                   |                           |
+
+| 🗄️ Databases                       | 🐳 Containers & OS                | 🏢 Enterprise Tools        |
+|:-----------------------------------|:----------------------------------|:--------------------------|
+| 🟠 Oracle                          | 🐳 Docker                         | 🏦 LoanIQ                 |
+| 🟦 Microsoft SQL Server            | 🐧 Linux                          | ♾️ CI Best Practices       |
 
 
 ---
