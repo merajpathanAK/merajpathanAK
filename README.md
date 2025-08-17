@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋, I'm Meraj Pathan
+### 🚀 DevOps Engineer  DevOps | Jenkins | Oracle | GitHub Copilot | MSSQL | Linux | AWS | Ansible | Git & GitHub | CICD | Docker | AutoSys | LoanIQ
 
-<!--
-**merajpathanAK/merajpathanAK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **AWS, Docker, Kubernetes, Terraform**
+- 🌱 I’m learning **Advanced DevOps & Cloud Security**
+- 💬 Ask me about **DevOps, CI/CD, Cloud, Linux, GitHub**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pathan-meraj/) | [Email](merajpathan85@gmail.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- CI/CD: GitHub Actions, Jenkins
+- Cloud: AWS
+- Containers: Docker, Kubernetes , OpenShift
+- IaC: Terraform, Ansible
+- Monitoring: Prometheus, Grafana
+- Scripting: Bash, Python
+
+---
+
+### 📊 GitHub Stats
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight)
+
+---
