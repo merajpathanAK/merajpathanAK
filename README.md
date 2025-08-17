@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://img.fortawesome.com/1ce05b4b/3d-heading-demo.png" alt="Claymorphic Meraj Pathan Banner" width="650"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00F7FF,50:7A5AF8,100:4B0082&text=Meraj%20Pathan&fontSize=52&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=DevOps%20%7C%20Release%20Engineering%20%7C%20CI%2FCD&descAlign=50&descAlignY=60&stroke=ffffff&strokeWidth=1.2&reversal=false" alt="Meraj Pathan Banner"/>
 </p>
+
 
 
 ## 🌌 About Me  
