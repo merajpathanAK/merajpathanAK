@@ -87,8 +87,22 @@ My expertise spans across **CI/CD pipelines, XL Release (XLR), Ansible Tower, Do
   <img src="https://github-readme-stats.vercel.app/api?username=merajpathanAK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&border_radius=15&count_private=true" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=merajpathanAK&theme=tokyonight&hide_border=true&background=0D1117&border_radius=15" height="180" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=merajpathanAK&theme=react-dark&hide_border=true&bg_color=0D1117&radius=15" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=merajpathanAK&theme=onestar&no-frame=true&row=1&column=7" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=merajpathanAK&theme=tokyonight" height="200" />
+</p>
+
+<!-- Optional: Fun animated typing effect as a header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=500&color=6EB5FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Let's+build+something+awesome+🚀" />
 </p>
 
 ---
