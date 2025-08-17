@@ -43,9 +43,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=merajpathanAK&theme=react-dark&hide_border=true&bg_color=0D1117&radius=15" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=merajpathanAK&theme=algolia&no-frame=true&margin-w=10&margin-h=10" />
-</p>
 
 ---
 
