@@ -46,10 +46,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/merajpathanAK/merajpathanAK/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" />
-</p>
-
 
 
 
