@@ -88,10 +88,23 @@ My expertise spans across **CI/CD pipelines, XL Release (XLR), Ansible Tower, Do
   <img src="https://github-readme-stats.vercel.app/api?username=merajpathanAK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&border_radius=15&count_private=true" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=merajpathanAK&theme=tokyonight&hide_border=true&background=0D1117&border_radius=15" height="180" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=merajpathanAK&theme=react-dark&hide_border=true&bg_color=0D1117&radius=15" />
 </p>
+
+---
+
+### 🛠️ Tech Stack Represented in My Projects
+
+- 🚀 **DevOps & Release Management:** Jenkins, XL Release (XLR), Ansible, Ansible Tower, AutoSys
+- 🤖 **Automation & Configuration:** Git, GitHub, Copilot
+- ☁️ **Cloud Platforms:** AWS, OpenShift
+- ⚡ **CI/CD:** CI/CD Pipelines, Continuous Integration & Deployment
+- 🗄️ **Databases:** Oracle, Microsoft SQL Server
+- 🐳 **Containers & OS:** Docker, Linux
+- 🏢 **Enterprise Tools:** LoanIQ, CI Best Practices
+
+> My GitHub analytics reflect active development across these modern technologies and practices, demonstrating expertise in automation, cloud-native delivery, release management, and enterprise solutions.
 
 
 ---
