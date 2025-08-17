@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=9000&pause=1000&color=00F7FF&width=1000&center=true&vCenter=true&repeat=true&lines=🚀+DevOps+Engineer+%7C+Jenkins+%7C+Oracle+%7C+GitHub+Copilot+%7C+MSSQL+%7C+Linux+%7C+Ansible+%7C+Git+%26+GitHub+%7C+CI%2FCD+%7C+Docker+%7C+AutoSys+%7C+LoanIQ" />
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:00F7FF,100:4B0082&text=Meraj%20Pathan&fontSize=48&fontColor=ffffff&fontAlignY=35" />
+</p>
 
 ---
 
