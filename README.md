@@ -24,15 +24,33 @@ My expertise spans across **CI/CD pipelines, XL Release (XLR), Ansible Tower, Do
 ---
 ## 🛠️ Tech Stack  
 
-🔹 **DevOps & Release Management** – CI/CD, XLR Release Management, Ansible Tower  
-🔹 **Automation & Configuration** – Jenkins, Ansible, AutoSys  
-🔹 **Cloud Platforms** – AWS, OpenShift  
-🔹 **Databases** – Oracle, MSSQL  
-🔹 **Version Control** – Git & GitHub, GitHub Copilot  
-🔹 **Containers & Orchestration** – Docker, Linux  
-🔹 **Enterprise Tools** – LoanIQ, CI/CD best practices  
+🔹 **DevOps & Release Management**  
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="30" /> Jenkins •  
+<img src="https://img.icons8.com/color/48/ansible.png" height="30" /> Ansible •  
+<img src="https://img.icons8.com/external-flat-juicy-fish/60/external-automation-devops-flat-flat-juicy-fish.png" height="30" /> AutoSys •  
+**XLR Release Management** •  
+**Ansible Tower**
 
+🔹 **Automation & Configuration**  
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" /> Git •  
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="30" /> GitHub •  
+<img src="https://img.icons8.com/?size=48&id=8qW6zV2HFhD2&format=png" height="30" /> GitHub Copilot  
 
+🔹 **Cloud Platforms**  
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="35" /> AWS •  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openshift/openshift-original.svg" height="35" /> OpenShift  
+
+🔹 **Databases**  
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="35" /> Oracle •  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="35" /> MSSQL  
+
+🔹 **Containers & Orchestration**  
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" /> Docker •  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" /> Linux  
+
+🔹 **Enterprise Tools**  
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/fluency/48/settings-3.png" height="30" /> LoanIQ •  
+<img src="https://img.icons8.com/color/48/continuous-integration.png" height="30" /> CI/CD Best Practices  
 
 ---
 
