@@ -24,16 +24,22 @@ My expertise spans across **CI/CD pipelines, XL Release (XLR), Ansible Tower, Do
 ---
 ## 🛠️ Tech Stack  
 
-| 🚀 **DevOps & Release**   | 🔧 **Automation & VCS** | ☁️ **Cloud Platforms** | 🗄️ **Databases**   | 📦 **Containers & OS** | 🏢 **Enterprise Tools** |
-|----------------------------|--------------------------|-------------------------|---------------------|-------------------------|--------------------------|
-| 🧩 Jenkins                 | ⚙️ Ansible              | 🌍 AWS                  | 🔴 Oracle           | 🐳 Docker              | 💼 LoanIQ               |
-| 📦 XLR Release Mgmt        | ⏱️ AutoSys              | 🏗️ OpenShift           | 🟣 MSSQL            | 🐧 Linux               | 🔄 CI/CD                |
-| 🛰️ Ansible Tower          | 🌀 Git                  |                         |                     |                         |                          |
-|                            | 🐙 GitHub               |                         |                     |                         |                          |
-|                            | 🤖 GitHub Copilot       |                         |                     |                         |                          |
-|                            | ⚡ GitHub Actions       |                         |                     |                         |                          |
-|                            | 🧭 Bitbucket            |                         |                     |                         |                          |
+<div align="center">
 
+<table>
+  <tr>
+    <td align="center"><b>🚀 DevOps & Release</b><br>🧩 Jenkins<br>📦 XLR Release Mgmt<br>🛰️ Ansible Tower</td>
+    <td align="center"><b>🔧 Automation & VCS</b><br>⚙️ Ansible<br>⏱️ AutoSys<br>🌀 Git<br>🐙 GitHub<br>🤖 Copilot<br>⚡ Actions<br>🧭 Bitbucket</td>
+    <td align="center"><b>☁️ Cloud Platforms</b><br>🌍 AWS<br>🏗️ OpenShift</td>
+  </tr>
+  <tr>
+    <td align="center"><b>🗄️ Databases</b><br>🔴 Oracle<br>🟣 MSSQL</td>
+    <td align="center"><b>📦 Containers & OS</b><br>🐳 Docker<br>🐧 Linux</td>
+    <td align="center"><b>🏢 Enterprise Tools</b><br>💼 LoanIQ<br>🔄 CI/CD</td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
