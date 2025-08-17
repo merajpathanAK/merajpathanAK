@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi+👋,+I'm+Meraj+Pathan&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:36D1DC,100:5B86E5&height=120&section=header&text=Hi+👋,+I'm+Meraj+Pathan&fontSize=30&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 ---
@@ -18,11 +18,35 @@ I love solving complex infrastructure problems and exploring new DevOps tools.
 
 ## 🛠️ Tech Stack
 
-**DevOps & CI/CD:** Jenkins | GitHub | GitHub Copilot | Git | GitHub Actions | AutoSys  
-**Databases:** Oracle | MSSQL | LoanIQ  
-**Containers & Cloud:** Docker | AWS  
-**Configuration & Automation:** Ansible | CI/CD  
-**OS & Scripting:** Linux | Bash | Python  
+### 🚀 DevOps & CI/CD
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![AutoSys](https://img.shields.io/badge/AutoSys-0078D6?style=for-the-badge&logo=clockify&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=azure-pipelines&logoColor=white)
+
+---
+
+### ☁️ Cloud & Containers
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+
+---
+
+### 🖥️ Databases & Tools
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![LoanIQ](https://img.shields.io/badge/LoanIQ-003B57?style=for-the-badge&logo=databricks&logoColor=white)
+
+---
+
+### 🐧 OS & Scripting
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50" height="50" />
