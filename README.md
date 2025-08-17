@@ -5,9 +5,11 @@
 ---
 
 ## 🌌 About Me
-💻 DevOps Engineer with expertise in **automation, CI/CD pipelines, cloud solutions, and infrastructure scalability**.  
-⚡ Skilled at streamlining workflows, boosting efficiency, and driving innovation in cloud & DevOps environments.  
-🎯 Goal: Deliver **resilient, automated, and future-proof solutions**.  
+👨‍💻 I’m a **DevOps & Release Manager** with a passion for building smooth and reliable **CI/CD pipelines** <img src="https://img.icons8.com/color/48/000000/continuous-integration.png" height="20" alt="CI/CD" />.  
+🚀 I have hands-on experience with **XL Release (XLR)** <img src="https://img.icons8.com/fluency/48/rocket.png" height="20" alt="XLR" /> and **Ansible Tower automation** <img src="https://img.icons8.com/color/48/ansible.png" height="20" alt="Ansible" />, helping teams release faster and with confidence.  
+☁️ Skilled across **cloud platforms** <img src="https://img.icons8.com/color/48/000000/cloud.png" height="20" alt="Cloud" /> and **infrastructure as code**, I focus on making systems **scalable, automated, and future-ready**.  
+🎯 My goal is simple: deliver **seamless releases** that reduce downtime, boost productivity, and let businesses move at the speed of innovation.
+
 
 ---
 ## 🛠️ Tech Stack
@@ -25,12 +27,12 @@
 - <img src="https://cdn-icons-png.flaticon.com/512/5968/5968853.png" height="30" alt="DevOps" /> **DevOps**
 - <img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" height="30" alt="AutoSys" /> **AutoSys**
 - <img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" height="30" alt="LoanIQ" /> **LoanIQ**
-- <img src="https://cdn.iconscout.com/icon/free/png-512/free-github-copilot-11782372-9607781.png" height="30" alt="GitHub Copilot" /> **GitHub Copilot**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/GitHub_Copilot_logo.svg" height="30" alt="GitHub Copilot" /> **GitHub Copilot**
 
 
 ---
 
-## 📊 GitHub Analytics (3D Style)
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=merajpathanAK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&border_radius=15&count_private=true" height="180" />
