@@ -8,7 +8,7 @@
 
 Hi there! 👋  
 
-I’m a **DevOps & Release Manager** with **4+ years of experience** in building and managing modern DevOps ecosystems.  
+I’m a **DevOps & Release Engineer** with **4+ years of experience** in building and managing modern DevOps ecosystems.  
 My expertise spans across **CI/CD pipelines, XL Release (XLR), Ansible Tower, Docker, and cloud solutions**, where I focus on delivering releases that are seamless, reliable, and scalable.  
 
 🔧 Over the years, I’ve helped teams:  
