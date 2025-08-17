@@ -10,27 +10,23 @@
 🎯 Goal: Deliver **resilient, automated, and future-proof solutions**.  
 
 ---
-## 🛠️ Tech Stack (Logo Wall)
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="60" alt="Jenkins" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="60" alt="Oracle" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" height="60" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="60" alt="Ansible" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="60" alt="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="60" alt="MSSQL" />
-</p>
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="30" alt="Jenkins" /> **Jenkins**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="Oracle" /> **Oracle**
+- <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" height="30" alt="GitHub" /> **GitHub**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" /> **Git**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" /> **Docker**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" /> **Linux**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="30" alt="Ansible" /> **Ansible**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="AWS" /> **AWS**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="MSSQL" /> **MSSQL**
+- <img src="https://img.icons8.com/?size=512&id=22813&format=png" height="30" alt="CI/CD" /> **CI/CD**
+- <img src="https://img.icons8.com/?size=512&id=90519&format=png" height="30" alt="DevOps" /> **DevOps**
+- <img src="https://img.icons8.com/?size=512&id=ywH8BmsFQTgq&format=png" height="30" alt="AutoSys" /> **AutoSys**
+- <img src="https://img.icons8.com/?size=512&id=13679&format=png" height="30" alt="LoanIQ" /> **LoanIQ**
+- <img src="https://img.icons8.com/?size=512&id=8qW6zV2HFhD2&format=png" height="30" alt="GitHub Copilot" /> **GitHub Copilot**
 
-<p align="center">
-  <img src="https://img.icons8.com/?size=512&id=22813&format=png" height="60" alt="CI/CD" />
-  <img src="https://img.icons8.com/?size=512&id=90519&format=png" height="60" alt="DevOps" />
-  <img src="https://img.icons8.com/?size=512&id=ywH8BmsFQTgq&format=png" height="60" alt="AutoSys" />
-  <img src="https://img.icons8.com/?size=512&id=13679&format=png" height="60" alt="LoanIQ" />
-  <img src="https://img.icons8.com/?size=512&id=8qW6zV2HFhD2&format=png" height="60" alt="GitHub Copilot" />
-</p>
 
 ---
 
