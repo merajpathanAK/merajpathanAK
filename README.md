@@ -22,12 +22,11 @@ My expertise spans across **CI/CD pipelines, XL Release (XLR), Ansible Tower, Do
 
 
 ---
-
 ## 🛠️ Tech Stack  
 <div align="center">
 <table>
   <tr>
-    <td align="center" width="300" style="background:#0f2027; color:white; border-radius:15px; padding:15px;">
+    <td align="center" width="250" style="background:#0f2027; color:white; border-radius:15px; padding:15px;">
       <h3>🚀 DevOps & Release Management</h3>
       🧩 Jenkins <br>
       ⚙️ Ansible <br>
@@ -35,44 +34,49 @@ My expertise spans across **CI/CD pipelines, XL Release (XLR), Ansible Tower, Do
       🏁 XL Release (XLR) <br>
       🗼 Ansible Tower
     </td>
-    <td align="center" width="300" style="background:#203a43; color:white; border-radius:15px; padding:15px;">
+    <td align="center" width="250" style="background:#203a43; color:white; border-radius:15px; padding:15px;">
       <h3>🤖 Automation & Configuration</h3>
       🔗 Git <br>
       🐙 GitHub <br>
       🤖 Copilot
     </td>
-    <td align="center" width="300" style="background:#233142; color:white; border-radius:15px; padding:15px;">
+    <td align="center" width="250" style="background:#233142; color:white; border-radius:15px; padding:15px;">
       <h3>☁️ Cloud Platforms</h3>
       🌐 AWS <br>
       🛡️ OpenShift
     </td>
-  </tr>
-  <td align="center" width="300" style="background:#006a71; color:white; border-radius:15px; padding:15px;">
+    <td align="center" width="250" style="background:#006a71; color:white; border-radius:15px; padding:15px;">
       <h3>⚡ CI/CD</h3>
       🔄 CI/CD Pipelines <br>
       🔥 Continuous Integration <br>
       🚀 Continuous Deployment
     </td>
+  </tr>
   <tr>
-    <td align="center" width="300" style="background:#2c5364; color:white; border-radius:15px; padding:15px;">
+    <td align="center" width="250" style="background:#2c5364; color:white; border-radius:15px; padding:15px;">
       <h3>🗄️ Databases</h3>
       🟠 Oracle <br>
       🟦 Microsoft SQL Server
     </td>
-    <td align="center" width="300" style="background:#34495e; color:white; border-radius:15px; padding:15px;">
+    <td align="center" width="250" style="background:#34495e; color:white; border-radius:15px; padding:15px;">
       <h3>🐳 Containers & OS</h3>
       🐳 Docker <br>
       🐧 Linux
     </td>
-    <td align="center" width="300" style="background:#1a2980; color:white; border-radius:15px; padding:15px;">
+    <td align="center" width="250" style="background:#1a2980; color:white; border-radius:15px; padding:15px;">
       <h3>🏢 Enterprise Tools</h3>
       🏦 LoanIQ <br>
       ♾️ CI Best Practices
     </td>
+    <td align="center" width="250" style="background:#212f3c; color:white; border-radius:15px; padding:15px;">
+      <h3>🛡️ Other Skills</h3>
+      📊 Monitoring <br>
+      🧩 Release Planning <br>
+      📁 Version Control
+    </td>
   </tr>
 </table>
 </div>
-
 
 
 
