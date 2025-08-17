@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi!+I'm+Meraj+Pathan;DevOps+Engineer;Cloud+%7C+Automation+%7C+CI%2FCD;Always+Learning+%26+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=DevOps+Engineer;Jenkins+%7C+Oracle+%7C+GitHub+Copilot;MSSQL+%7C+Linux+%7C+Ansible;Git+%26+GitHub+%7C+CI%2FCD;Docker+%7C+AutoSys+%7C+LoanIQ" />
 </h1>
 
 ---
