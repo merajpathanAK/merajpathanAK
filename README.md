@@ -37,8 +37,8 @@ My expertise spans across **CI/CD pipelines, XL Release (XLR), Ansible Tower, Do
     <td align="center" width="250" style="background:#203a43; color:white; border-radius:15px; padding:15px;">
       <h3>🤖 Automation & Configuration</h3>
       🔗 Git <br>
-      🐙 GitHub <br>
-      🤖 Copilot
+      🐙 GitHub Copilot <br>
+      🤖 
     </td>
     <td align="center" width="250" style="background:#233142; color:white; border-radius:15px; padding:15px;">
       <h3>☁️ Cloud Platforms</h3>
