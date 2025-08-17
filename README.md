@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://fontmeme.com/permalink/240817/54556e1dde41879e6d530e382e2636b9.png" alt="3D Block Meraj Pathan"/>
+  <img src="https://img.fortawesome.com/1ce05b4b/3d-heading-demo.png" alt="Claymorphic Meraj Pathan Banner" width="650"/>
 </p>
-
 
 
 ## 🌌 About Me  
