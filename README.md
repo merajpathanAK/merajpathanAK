@@ -26,7 +26,30 @@ My expertise spans across **CI/CD pipelines, XL Release (XLR), Ansible Tower, Do
 
 <div align="center">
 
-<table>
+<style>
+  table.tech-stack {
+    border-collapse: separate;
+    border-spacing: 15px;
+  }
+  table.tech-stack td {
+    background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+    color: #fff;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 6px 15px rgba(0,0,0,0.4);
+    transition: transform 0.3s, box-shadow 0.3s;
+    width: 200px;
+  }
+  table.tech-stack td:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 12px 25px rgba(0,0,0,0.6);
+    background: linear-gradient(135deg, #2c5364, #203a43, #0f2027);
+  }
+</style>
+
+<table class="tech-stack">
   <tr>
     <td align="center"><b>🚀 DevOps & Release</b><br>🧩 Jenkins<br>📦 XLR Release Mgmt<br>🛰️ Ansible Tower</td>
     <td align="center"><b>🔧 Automation & VCS</b><br>⚙️ Ansible<br>⏱️ AutoSys<br>🌀 Git<br>🐙 GitHub<br>🤖 Copilot<br>⚡ Actions<br>🧭 Bitbucket</td>
@@ -40,6 +63,7 @@ My expertise spans across **CI/CD pipelines, XL Release (XLR), Ansible Tower, Do
 </table>
 
 </div>
+
 
 ---
 
