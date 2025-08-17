@@ -49,38 +49,7 @@
 
 ---
 
-## 🐍 Contribution Snake (Setup Needed)
 
-> ⚠️ To make this work, you need to enable a GitHub Action in your repo.
-
-Add this file in your repo at:  
-`.github/workflows/snake.yml`
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule: 
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Generate Snake Animation
-        uses: Platane/snk@v3
-        with:
-          github_user_name: merajpathanAK
-          outputs: dist/snake.svg
-
-      - name: Push Snake to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<p align="center">
+  <img src="https://raw.githubusercontent.com/merajpathanAK/merajpathanAK/output/snake.svg" alt="Snake animation" />
+</p>
