@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=40&pause=1000&color=0CF7FF&vCenter=true&width=700&lines=Meraj+Pathan;DevOps+%26+Release+Engineer;Cloud+%7C+CI%2FCD+%7C+Automation+Specialist" />
+  <img src="https://fontmeme.com/permalink/240817/54556e1dde41879e6d530e382e2636b9.png" alt="3D Block Meraj Pathan"/>
 </p>
+
 
 
 ## 🌌 About Me  
