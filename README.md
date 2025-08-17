@@ -26,43 +26,44 @@ My expertise spans across **CI/CD pipelines, XL Release (XLR), Ansible Tower, Do
 
 <div align="center">
 
-<style>
-  table.tech-stack {
-    border-collapse: separate;
-    border-spacing: 15px;
-  }
-  table.tech-stack td {
-    background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
-    color: #fff;
-    font-size: 14px;
-    font-weight: 600;
-    padding: 20px;
-    border-radius: 15px;
-    box-shadow: 0 6px 15px rgba(0,0,0,0.4);
-    transition: transform 0.3s, box-shadow 0.3s;
-    width: 200px;
-  }
-  table.tech-stack td:hover {
-    transform: translateY(-6px);
-    box-shadow: 0 12px 25px rgba(0,0,0,0.6);
-    background: linear-gradient(135deg, #2c5364, #203a43, #0f2027);
-  }
-</style>
-
-<table class="tech-stack">
+<table>
   <tr>
-    <td align="center"><b>🚀 DevOps & Release</b><br>🧩 Jenkins<br>📦 XLR Release Mgmt<br>🛰️ Ansible Tower</td>
-    <td align="center"><b>🔧 Automation & VCS</b><br>⚙️ Ansible<br>⏱️ AutoSys<br>🌀 Git<br>🐙 GitHub<br>🤖 Copilot<br>⚡ Actions<br>🧭 Bitbucket</td>
-    <td align="center"><b>☁️ Cloud Platforms</b><br>🌍 AWS<br>🏗️ OpenShift</td>
+    <td align="center" width="300" style="background:#0f2027; color:white; border-radius:15px; padding:15px;">
+      <h3>💻 Languages & Frameworks</h3>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+    </td>
+    <td align="center" width="300" style="background:#203a43; color:white; border-radius:15px; padding:15px;">
+      <h3>☁️ Cloud & DevOps</h3>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
+      <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/>
+      <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="40" height="40"/>
+      <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" height="40"/>
+      <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40" height="40"/>
+    </td>
   </tr>
   <tr>
-    <td align="center"><b>🗄️ Databases</b><br>🔴 Oracle<br>🟣 MSSQL</td>
-    <td align="center"><b>📦 Containers & OS</b><br>🐳 Docker<br>🐧 Linux</td>
-    <td align="center"><b>🏢 Enterprise Tools</b><br>💼 LoanIQ<br>🔄 CI/CD</td>
+    <td align="center" colspan="2" style="background:#2c5364; color:white; border-radius:15px; padding:15px;">
+      <h3>🗄️ Databases & Monitoring</h3>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40"/>
+      <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" height="40"/>
+      <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" width="40" height="40"/>
+    </td>
   </tr>
 </table>
 
 </div>
+
+
 
 
 ---
