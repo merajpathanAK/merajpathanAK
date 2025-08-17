@@ -1,73 +1,75 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:00F7FF,100:4B0082&text=Meraj%20Pathan&fontSize=48&fontColor=ffffff&fontAlignY=35" />
-</p>
+Meraj Pathan
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:00F7FF,100:4B0082&text=Meraj%20Pathan&fontSize=48&fontColor=ffffff&fontAlignY=35" /> </p>
+🌌 About Me
+Hi there! 👋
+DevOps & Release Engineer with 4+ years of experience building reliable, automated, and scalable delivery systems. I specialize in CI/CD, release orchestration, and infrastructure automation across enterprise environments.
 
----
+I focus on:
 
-## 🌌 About Me  
+Automating deployments to eliminate manual errors and toil.
 
-Hi there! 👋  
+Streamlining release cycles with robust CI/CD workflows.
 
-I’m a **DevOps & Release Engineer** with **4+ years of experience** in building and managing modern DevOps ecosystems.  
-My expertise spans across **CI/CD pipelines, XL Release (XLR), Ansible Tower, Docker, and cloud solutions**, where I focus on delivering releases that are seamless, reliable, and scalable.  
+Orchestrating complex enterprise releases using XLR and Ansible Tower.
 
-🔧 Over the years, I’ve helped teams:  
-- Automate deployments and reduce manual errors.  
-- Improve release cycles through **streamlined CI/CD workflows**.  
-- Manage complex enterprise releases with **XLR** and **Ansible Tower**.  
-- Enhance infrastructure reliability with **cloud platforms** and automation tools.  
+Enhancing reliability with cloud platforms and configuration-as-code.
 
-🚀 What drives me is ensuring every release is smooth, downtime is minimal, and innovation never slows down.  
-🎯 My mission: Deliver **future-proof, automated, and business-driven release processes** that empower teams to move faster with confidence.  
+Mission: Deliver future-proof, business-aligned release processes so teams ship faster with confidence and near-zero downtime.
 
+🛠️ Tech Stack
+DevOps & Release Orchestration
+Jenkins - XL Release (XLR) - Ansible - Ansible Tower - AutoSys
 
----
-## 🛠️ Tech Stack  
+Automation & Configuration
+Git - GitHub - GitHub Copilot - CI/CD best practices
 
-🔹 **DevOps & Release Management**  
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="30" /> Jenkins •  
-<img src="https://img.icons8.com/color/48/ansible.png" height="30" /> Ansible •  
-<img src="https://img.icons8.com/external-flat-juicy-fish/60/external-automation-devops-flat-flat-juicy-fish.png" height="30" /> AutoSys •  
-**XLR Release Management** •  
-**Ansible Tower**
+Cloud & Platforms
+AWS - OpenShift - Linux - Docker
 
-🔹 **Automation & Configuration**  
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" /> Git •  
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="30" /> GitHub •  
-<img src="https://img.icons8.com/?size=48&id=8qW6zV2HFhD2&format=png" height="30" /> GitHub Copilot  
+Databases
+Oracle - Microsoft SQL Server (MSSQL)
 
-🔹 **Cloud Platforms**  
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="35" /> AWS •  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openshift/openshift-original.svg" height="35" /> OpenShift  
+Enterprise Tools
+LoanIQ - Release governance and compliance workflows
 
-🔹 **Databases**  
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="35" /> Oracle •  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="35" /> MSSQL  
+🚀 What I Do Best
+Design and implement CI/CD pipelines for multi-environment deployments.
 
-🔹 **Containers & Orchestration**  
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" /> Docker •  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" /> Linux  
+Build release calendars, gates, and approvals with XLR.
 
-🔹 **Enterprise Tools**  
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/fluency/48/settings-3.png" height="30" /> LoanIQ •  
-<img src="https://img.icons8.com/color/48/continuous-integration.png" height="30" /> CI/CD Best Practices  
+Automate provisioning, configuration, and app deployments with Ansible Tower.
 
----
+Containerize workloads and standardize images with Docker.
 
-## 📊 GitHub Analytics
+Operate secure, scalable infrastructure on AWS and OpenShift.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=merajpathanAK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&border_radius=15&count_private=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=merajpathanAK&theme=tokyonight&hide_border=true&background=0D1117&border_radius=15" height="180" />
-</p>
+Improve MTTR and deployment frequency with data-driven practices.
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=merajpathanAK&theme=react-dark&hide_border=true&bg_color=0D1117&radius=15" />
-</p>
+🧩 Highlights
+Reduced release lead time with automated, gated pipelines.
 
+Standardized deployment playbooks to cut configuration drift.
 
----
+Built resilient pipelines with rollback and canary strategies.
 
+Partnered with dev and ops to align releases with business outcomes.
 
+📊 GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=merajpathanAK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&border_radius=15&count_private=true" height="180" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=merajpathanAK&theme=tokyonight&hide_border=true&background=0D1117&border_radius=15" height="180" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=merajpathanAK&theme=react-dark&hide_border=true&bg_color=0D1117&radius=15" /> </p>
+🧠 Current Focus
+Scaling release orchestration for multi-team enterprises
 
+Policy-as-code and compliance in CI/CD
 
+Progressive delivery, metrics, and SLO-based rollouts
+
+🤝 Let’s Collaborate
+Release modernization projects
+
+CI/CD architecture reviews
+
+Automation and migration to Ansible Tower/XLR
+
+Cloud-native delivery on AWS/OpenShift
+
+📫 Contact
