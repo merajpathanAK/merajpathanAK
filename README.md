@@ -22,52 +22,36 @@ My expertise spans across **CI/CD pipelines, XL Release (XLR), Ansible Tower, Do
 
 
 ---
-## 🛠️ Tech Stack
 
-<table>
-  <tr>
-    <th align="center">DevOps &<br>Release Management</th>
-    <th align="center">Automation &<br>Configuration</th>
-    <th align="center">Cloud Platforms</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="30"/><br>Jenkins<br>
-      <img src="https://img.icons8.com/color/48/ansible.png" height="30"/><br>Ansible<br>
-      <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-automation-devops-flat-flat-juicy-fish.png" height="30"/><br>AutoSys<br>
-      XL Release (XLR)<br>
-      Ansible Tower
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/><br>Git<br>
-      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="30"/><br>GitHub<br>
-      <img src="https://img.icons8.com/?size=48&id=8qW6zV2HFhD2&format=png" height="30"/><br>Copilot
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="35"/><br>AWS<br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openshift/openshift-original.svg" height="35"/><br>OpenShift
-    </td>
-  </tr>
-  <tr>
-    <th align="center">Databases</th>
-    <th align="center">Containers &<br>Operating Systems</th>
-    <th align="center">Enterprise Tools</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="35"/><br>Oracle<br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="35"/><br>Microsoft SQL Server
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35"/><br>Docker<br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35"/><br>Linux
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/fluency/48/settings-3.png" height="30"/><br>LoanIQ<br>
-      <img src="https://img.icons8.com/color/48/continuous-integration.png" height="30"/><br>CI Best Practices
-    </td>
-  </tr>
-</table>
+## 🛠️ Tech Stack  
+
+### 🔹 DevOps & Release Management  
+- ![Jenkins](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg) **Jenkins**  
+- ![Ansible](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg) **Ansible**  
+- **AutoSys**  
+- **XLR Release Management**  
+- **Ansible Tower**  
+
+### 🔹 Automation & Configuration  
+- ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) **Git**  
+- ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg) **GitHub**  
+- **GitHub Copilot**  
+
+### 🔹 Cloud Platforms  
+- ![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg) **AWS**  
+- ![OpenShift](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openshift/openshift-original.svg) **OpenShift**  
+
+### 🔹 Databases  
+- ![Oracle](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg) **Oracle**  
+- ![MSSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg) **MSSQL**  
+
+### 🔹 Containers & Orchestration  
+- ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg) **Docker**  
+- ![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg) **Linux**  
+
+### 🔹 Enterprise Tools  
+- **LoanIQ**  
+- **CI/CD Best Practices**  
 
 
 ---
