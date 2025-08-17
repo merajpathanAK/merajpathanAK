@@ -50,7 +50,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/merajpathanAK/merajpathanAK/blob/main/skyline.png" alt="GitHub Skyline 3D" />
+  <img src="https://raw.githubusercontent.com/merajpathanAK/merajpathanAK/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" />
 </p>
 
 
